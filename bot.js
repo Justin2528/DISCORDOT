@@ -160,4 +160,4 @@ bot.on("message", async message => {
 
 });
 
-bot.token(process.env.NDU5NzM2MzMxMTY2MTU0NzUy.Dg6uIw.R6TSa4gBz7zSQokTNaibV_yBGig);
+bot.token(process.env.NDU5NzM2MzMxMTY2MTU0NzUy.Dg6uIw.R6TSa4gBz7zSQokTNaibV_yBGIg)
